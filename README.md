@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋 I'm Peace Adekoya⏤an SEO Technical Writer and Frontend Developer 
+### Hi there 👋 I'm Peace Adekoya
 #### Passionate about learning, building, and solving problems
 
 
@@ -32,7 +32,7 @@
 <img align="left"  width="150" height="150" src="https://media3.giphy.com/media/JRCl5NzZktObE4MQeD/200w.webp"></a>
 
 
-<img align="right" width="20%" height= "20%" src="https://media1.giphy.com/media/H4ETAwCJs7S9mdrFFW/200w.webp"></a>
+<img align="right" width="150" height= "150" src="https://media1.giphy.com/media/H4ETAwCJs7S9mdrFFW/200w.webp"></a>
 
 ## <img src="https://media1.giphy.com/media/l2SpTXlLhThF29ai4/giphy.gif?cid=ecf05e47478x6tjwwk72rrfliqu48orlng60tnkyxcf6e6vz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"> **GitHub Analytics:**
 
