@@ -7,13 +7,13 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='quicksand'&weight=700&size=24&pause=100&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
 
 
-🔭 I’m currently working on Mambo, a web3 banking application
-🌱 I’m learning JavaScript, React, and Typescript
-📖 I love working with tech companies and startups on a global scale, writing technical articles, and developing user-friendly web applications. I'm always open to learning new things and improving my skills. 
-💬 Talk to me about Technical Writing, SEO, Frontend Development, and self-care
-😋 I enjoy listening to music, reading, exploring cuisines, and meditation
+🔭 I’m currently working on Mambo, a web3 banking application<br>
+🌱 I’m learning JavaScript, React, and Typescript<br>
+📖 I love working with tech companies and startups on a global scale, writing technical articles, and developing user-friendly web applications. I'm always open to learning new things and improving my skills. <br>
+💬 Talk to me about Technical Writing, SEO, Frontend Development, and self-care<br>
+😋 I enjoy listening to music, reading, exploring cuisines, and meditation<br>
 📝 I’m open to Technical and SEO writing roles<br>
-📫 How to reach me:
+📫 How to reach me:<br>
   <p align="center">
     <a href="https://www.linkedin.com/in/peace-adekoya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/> </a>
     <a href="https://twitter.com/sassyorlah/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blueviolet"/> </a>
@@ -25,8 +25,8 @@
     <div align="center">
       <a href="https://github.com/CertifiedDaydreamer/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=CertifiedDaydreamer&style=for-the-badge">
-    </a>
-😄 Pronouns: SHE/HER
+    </a></div>
+😄 Pronouns: SHE/HER<br>
 ⚡ Fun fact: I studied theatre arts in college.
 
 <img align="left"  width="150" height="150" src="https://media3.giphy.com/media/JRCl5NzZktObE4MQeD/200w.webp"></a>
