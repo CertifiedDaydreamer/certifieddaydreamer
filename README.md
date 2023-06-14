@@ -44,8 +44,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=CertifiedDaydreamer&theme=omni&hide_border=true&background=FFFFFF00">
   <br>
 
-
+<!--
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@CertifiedDaydreamer&show_icons=true&locale=en&layout=compact&theme=omni&hide_border=true&background=FFFFFF00">
+-->
 
 ### 📕 Check Out my Blogs
 - [Medium](https://adekoyapeace.medium.com/)
@@ -95,4 +96,4 @@
 
 
  
---/>
+-->
