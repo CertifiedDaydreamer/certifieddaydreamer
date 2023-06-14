@@ -1,4 +1,4 @@
-
+  <div align="center">
 ## <img src="https://media2.giphy.com/media/xonOzxf2M8hNu/200w.webp?cid=ecf05e47gvi7u6yl6h6418sriowp9wvpvebx890t3sz89ub7&ep=v1_gifs_search&rid=200w.webp&ct=g" width="40"> **About Me:**
 
 ### Hi there 👋 I'm Peace Adekoya, an SEO Technical Writer and Frontend Developer passionate about learning, building, and solving problems.
@@ -22,10 +22,10 @@
     <a href="mailto:adekoyapeace@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/> </a>
     </p><br>
     
-    <div align="center">
+  
       <a href="https://github.com/CertifiedDaydreamer/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=CertifiedDaydreamer&style=for-the-badge">
-    </a></div>
+    </a>
 😄 Pronouns: SHE/HER<br>
 ⚡ Fun fact: I studied theatre arts in college.
 
