@@ -26,7 +26,7 @@
   
   <div align="center">
   <a href="https://github.com/CertifiedDaydreamer/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=CertifiedDaydreamer&style=for-the-badge">
 </a>
 
 <img align="left"  width="150" height="150" src="https://media3.giphy.com/media/JRCl5NzZktObE4MQeD/200w.webp"></a>
