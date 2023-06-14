@@ -25,7 +25,7 @@
     </p><br>
   
   <div align="center">
-  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
+  <a href="https://github.com/CertifiedDaydreamer/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
 </a>
 
