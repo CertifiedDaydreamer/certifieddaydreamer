@@ -1,15 +1,11 @@
-![girl-code](https://giphy.com/clips/girlswhocode-girls-who-code-2w0IP0jIPRWzSepCeN)
-
-
-
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='quicksand'&weight=700&size=24&pause=1000&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
-
 
 ## <img src="https://media2.giphy.com/media/xonOzxf2M8hNu/200w.webp?cid=ecf05e47gvi7u6yl6h6418sriowp9wvpvebx890t3sz89ub7&ep=v1_gifs_search&rid=200w.webp&ct=g" width="40"> **About Me:**
 
 ### Hi there 👋 I'm Peace Adekoya, an SEO Technical Writer and Frontend Developer passionate about learning, building, and solving problems.
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='quicksand'&weight=700&size=24&pause=100&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
+
 
 🔭 I’m currently working on Mambo, a web3 banking application
 🌱 I’m learning JavaScript, React, and Typescript
