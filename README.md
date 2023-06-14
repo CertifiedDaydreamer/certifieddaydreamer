@@ -1,10 +1,10 @@
 <div align="center">
 
-### Hi there 👋 I'm Peace Adekoya, an SEO Technical Writer and Frontend Developer 
+### Hi there 👋 I'm Peace Adekoya⏤an SEO Technical Writer and Frontend Developer 
 #### Passionate about learning, building, and solving problems
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='quicksand'&weight=900&size=24&pause=100&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=quicksand&weight=900&size=24&pause=100&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
 
 
 🔭 I’m currently working on Mambo, a web3 banking application<br>
@@ -24,9 +24,7 @@
     <a href="mailto:adekoyapeace@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/> </a>
     </p><br>
   
-      <a href="https://github.com/CertifiedDaydreamer/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=CertifiedDaydreamer&style=for-the-badge">
-    </a>
+      <a href="https://github.com/CertifiedDaydreamer/github-profile-views-counter">    </a>
 
 
 <img align="left"  width="150" height="150" src="https://media3.giphy.com/media/JRCl5NzZktObE4MQeD/200w.webp"></a>
