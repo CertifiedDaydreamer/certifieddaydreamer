@@ -4,7 +4,7 @@
 #### Passionate about learning, building, and solving problems
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=100&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=100&color=PINK&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;TECHNICAL+WRITER;CONTENT+CREATOR)](https://git.io/typing-svg)
 
 
 🔭 I’m currently working on Mambo, a web3 banking application<br>
