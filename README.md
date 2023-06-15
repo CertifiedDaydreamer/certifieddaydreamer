@@ -11,7 +11,7 @@
 🌱 I’m learning JavaScript, React, and Typescript<br>
 📖 I love working with tech companies and startups on a global scale, writing technical articles, and developing user-friendly web applications. I'm always open to learning new things and improving my skills. <br>
 💬 Talk to me about Technical Writing, SEO, Frontend Development, and self-care<br>
-😋 I enjoy listening to music, reading, exploring cuisines, and meditation<br>
+😋 I enjoy listening to music, reading, exploring cuisines, and meditating<br>
 📝 I’m open to Technical and SEO writing roles<br>
 😄 Pronouns: SHE/HER<br>
 ⚡ Fun fact: I studied theatre arts in college<br>
